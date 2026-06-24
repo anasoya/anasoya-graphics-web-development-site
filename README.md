@@ -265,5 +265,3 @@ All rights reserved by Anasoya Graphics & Web Development (2024)
 **Created with v0 by Vercel**
 
 This comprehensive platform provides everything needed to manage your graphics and web development business with a professional online presence.
-#   a n a s o y a - g r a p h i c s - w e b - d e v e l o p m e n t - s i t e  
- 
